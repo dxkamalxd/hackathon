@@ -1,0 +1,48 @@
+
+*{
+    font-family:"Microsoft JhengHei Light",sans-serif;
+}
+.main{
+    width: 40%;
+    box-shadow: 1px 1px 10px silver;
+    margin-top: 40px;
+    padding: 10px;
+}
+img{
+    width: 60%;
+}
+input{
+
+    margin: 10px 0px;
+    padding: 5px;
+    width: 60%;
+    font-family: "Microsoft JhengHei Light",sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+}
+button{
+    width: 40%;
+    border: none;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #053413;
+    margin-bottom: 15px;
+    color: white;
+}
+label{
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: #0acec7;
+    color: black;
+
+}
+a{
+    text-decoration: none;
+    color: tomato;
+    font-size: 20px;
+    font-weight: bold;
+}
